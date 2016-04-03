@@ -1,0 +1,6 @@
+[submodule "lbr/adafruit"]
+	path = lbr/adafruit
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
+[submodule "lbr/sparkfun"]
+	path = lbr/sparkfun
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
